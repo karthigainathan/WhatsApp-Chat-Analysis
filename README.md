@@ -1,4 +1,6 @@
 # WhatsApp-Chat-Analysis using Pandas and Matplotlib
+The WhatsApp analysis is done by using my family whatsapp group chat from Jan-May.
+
 
 # How to Export Chat
 1.Open the individual or group chat.
