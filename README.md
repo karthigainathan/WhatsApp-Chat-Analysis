@@ -1,3 +1,6 @@
+
+![social-default-image](https://user-images.githubusercontent.com/43938345/89285583-8e344100-d648-11ea-8963-4831cc37fcc4.png)
+
 # WhatsApp-Chat-Analysis using Pandas and Matplotlib
 The WhatsApp analysis is done by using my family whatsapp group chat from Jan-May.
 The data transformation and analysis is done by using Pandas. Visualizations are plotted using Power BI and to make more interesting I used WhatsApp brand colour palette. I also plotted visuals using Matplotlib which is in the Github link. I also referred various sources to understand and implement it.
